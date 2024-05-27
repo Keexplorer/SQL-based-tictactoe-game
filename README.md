@@ -1,0 +1,1 @@
+A C# project where users can play TicTacToe according to difficulty levels, requires user login at entry, allows new users to register, and stores user data in a database using SQL. You can enter admin each of username and password if you want to enter in.
